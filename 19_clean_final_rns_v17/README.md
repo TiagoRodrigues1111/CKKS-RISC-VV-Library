@@ -148,7 +148,7 @@ The different files not present in specific directories are as follows:
 +  <strong><a href=initialization.c>initialization.c</a></strong> : File containing the implementation of the auxiliary functions to the library.
 +  <strong><a href=key_stuff.c>key_stuff.c</a></strong> : File containing the implementation of the client-side operations, as well as their corresponding auxiliary functions.
 +  <strong><a href=key_stuff.h>key_stuff.h</a></strong> : File containing the declaration of the client-side operations.
-+ <strong><a href=benchmark_general_operations.c>benchmark_general_operations.c</a></strong> : deprecated file for testing previously implemented functions
++ <strong><a href=benchmark_general_operations.c>benchmark_general_operations.c</a></strong> : (Deprecated ⚠️) : File for testing previously implemented functions.
 
 
 
